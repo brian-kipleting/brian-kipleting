@@ -22,7 +22,7 @@ Statistical Analysis: Applying statistical methods to interpret data and make in
 Getting Started
 To get started with the projects and notebooks in this repository:
 
-Clone this repository to your local machine using git clone https://github.com/brian-kipleting.git.
+Clone this repository to your local machine using git clone https://github.com/brian-kipleting/brian-kipleting
 Install the required packages listed in requirements.txt or using pip install -r requirements.txt.
 Explore the Jupyter notebooks and Python scripts to see the code and results.
 Feel free to explore, fork, or contribute to the projects here. I’m always open to feedback and collaboration!
